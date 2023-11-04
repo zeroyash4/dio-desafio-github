@@ -1,4 +1,5 @@
 # dio-desafio-github
 primeiro repositório
+## LINKS ÚTEIS
 
-[SINTÁXE BÁSICA MARKDOWN](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe básica markdown](https://www.markdownguide.org/basic-syntax/)
